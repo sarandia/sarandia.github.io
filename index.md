@@ -11,3 +11,6 @@ A high-performance, non-blocking, thread-safe red-black tree that scales concurr
 
 ### [Wi-Fi Jammer](https://github.com/sarandia/WiFi_Jammer):
 A Wi-Fi Jammer that exploits the 802.11 protocol to perform DoS attack on any Wi-Fi network within range.
+
+### [FPGA Flappy Bird](https://github.com/sarandia/FPGA_Flappy_Bird):
+An implementation of the Flappy Bird game on Altera DE-2 FPGA board with colored graphics.
