@@ -14,3 +14,9 @@ A Wi-Fi Jammer that exploits the 802.11 protocol to perform DoS attack on any Wi
 
 ### [FPGA Flappy Bird](https://github.com/sarandia/FPGA_Flappy_Bird):
 An implementation of the Flappy Bird game on Altera DE-2 FPGA board with colored graphics.
+
+### [Multiplayer Tic-tac-toe on Android](https://github.com/sarandia/tictactoe)
+A multiplayer tic-tac-toe game on Android with both client app and server.
+
+### [SDR Automation](https://github.com/sarandia/SDR_flow_automation)
+A signal encoding and decoding module for Software-defined Radio (SDR) for communication with Satellites.
