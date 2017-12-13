@@ -8,3 +8,6 @@ I graduated with a Bachelor's degree in Electrical Engineering from Vanderbilt U
 ## Projects:
 ### [Lock-free Self-balancing Binary Search Tree](https://sarandia.github.io/lockfreebst/):
 A red-black tree that scales concurrently without using locks.
+
+### [Wi-Fi Jammer](https://github.com/sarandia/WiFi_Jammer):
+A Wi-Fi Jammer that exploits the 802.11 protocol to detect and block any user from any Wi-Fi network without having to authenticate.
