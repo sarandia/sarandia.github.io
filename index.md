@@ -1,7 +1,7 @@
 # Ziyuan Chen's Personal Webpage
 
 ## About me
-I am a student in the Master of Science (MSCS) student at Carnegie Mellon University, Pittsburgh, PA.<br />
+I am a student in the Master of Science (MSCS) program at Carnegie Mellon University, Pittsburgh, PA.<br />
 I graduated with a Bachelor's degree in Electrical Engineering from Vanderbilt University, Nashville, TN in 2016.
 
 ## Work Experience
