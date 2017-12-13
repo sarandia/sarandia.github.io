@@ -2,7 +2,7 @@ title: Sarandia.GitHub.io
 description: Personal Webpage
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
