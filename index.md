@@ -5,14 +5,14 @@ I am a student in the Master of Science in Computer Science (MSCS) program at Ca
 I graduated with a Bachelor's degree in Electrical Engineering from Vanderbilt University, Nashville, TN in 2016.
 
 ## Coursework at CMU
-### Parallel Computer Architecture and Programming (15618)
-### Algorithms (15651)
-### Ph.D Machine Learning (10701)
-### Distributed Systems (15640)
-### Search Engines (11642)
-### Artificial Intelligence (15780)
-### Web Application Development (17637)
-### Computer Systems (15513)
+### - Parallel Computer Architecture and Programming (15618)
+### - Algorithms (15651)
+### - Ph.D Machine Learning (10701)
+### - Distributed Systems (15640)
+### - Search Engines (11642)
+### - Artificial Intelligence (15780)
+### - Web Application Development (17637)
+### - Computer Systems (15513)
 
 ## Work Experience
 ### - [Microsoft](https://www.microsoft.com/en-us/), Sunnyvale, CA
