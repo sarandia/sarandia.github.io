@@ -15,6 +15,8 @@ I graduated with a Bachelor's degree in Electrical Engineering from Vanderbilt U
 ### [Lock-free Self-balancing Binary Search Tree](https://sarandia.github.io/lockfreebst/):
 A high-performance, non-blocking, thread-safe red-black tree that scales concurrently without using locks. It is a template class that can be used to implement any BST-based containers such as maps and sets.
 
+### [QryEval - A search engine based on Lucene Index](https://github.com/sarandia/CMU-11642-Search-Engines):
+
 ### [Wi-Fi Jammer](https://github.com/sarandia/WiFi_Jammer):
 A Wi-Fi Jammer that exploits the 802.11 protocol to perform DoS attack on any Wi-Fi network within range.
 
