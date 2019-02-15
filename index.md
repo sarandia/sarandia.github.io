@@ -8,7 +8,7 @@ I graduated with a Master of Science in Computer Science from Carnegie Mellon Un
 - Parallel Computer Architecture and Programming, Algorithms, Ph.D Machine Learning, Distributed Systems, Search Engines, Artificial Intelligence, Advanced Cloud Computing, Computer Systems
 
 ## Work Experience
-### - [Google](https://https://about.google/), Sunnyvale, CA
+### - [Google](https://https://www.google.com/about/), Sunnyvale, CA
 ### - [Microsoft](https://www.microsoft.com/en-us/), Sunnyvale, CA
 ### - [Qualcomm](https://www.qualcomm.com/), San Jose, CA
 
