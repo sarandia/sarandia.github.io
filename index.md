@@ -1,13 +1,14 @@
 # Ziyuan Chen's Personal Webpage
 
 ## About me
-I am a student in the Master of Science in Computer Science (MSCS) program at Carnegie Mellon University, Pittsburgh, PA.<br />
-I graduated with a Bachelor's degree in Electrical Engineering from Vanderbilt University, Nashville, TN in 2016.
+I am currently a software engineer at Google.<br />
+I graduated with a Master of Science in Computer Science from Carnegie Mellon University, and a Bachelor's degree in Electrical Engineering from Vanderbilt University, Nashville, TN in 2016.
 
 ## Coursework at CMU
 - Parallel Computer Architecture and Programming, Algorithms, Ph.D Machine Learning, Distributed Systems, Search Engines, Artificial Intelligence, Advanced Cloud Computing, Computer Systems
 
 ## Work Experience
+### - [Microsoft](https://https://about.google/), Sunnyvale, CA
 ### - [Microsoft](https://www.microsoft.com/en-us/), Sunnyvale, CA
 ### - [Qualcomm](https://www.qualcomm.com/), San Jose, CA
 
